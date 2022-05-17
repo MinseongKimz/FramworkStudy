@@ -1,0 +1,7 @@
+INDEX VERSION 1.4+C:\FramworkStudy\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+4079601042.index
+2823947887.index
+351305105.index
+3099944997.index
+1270943255.index
+2407523020.index
